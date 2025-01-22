@@ -2,9 +2,10 @@
   "name": "production_grade",
   "version": "1.0.0",
   "description": "a backend project of a very effecient streaming app",
+  "type": "module",
   "main": "index.js",
   "scripts": {
-    "test": "javascript,node js, react js"
+    "dev": "nodemon src/index.js"
   },
   "keywords": [
     "js",
@@ -13,5 +14,9 @@
     "backend"
   ],
   "author": "Shreesh",
-  "license": "ISC"
+  "license": "ISC",
+  "dependencies": {
+    "nodemon": "^3.1.9",
+    "prettier": "^3.4.2"
+  }
 }
