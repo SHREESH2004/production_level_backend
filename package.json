@@ -1,0 +1,17 @@
+{
+  "name": "production_grade",
+  "version": "1.0.0",
+  "description": "a backend project of a very effecient streaming app",
+  "main": "index.js",
+  "scripts": {
+    "test": "javascript,node js, react js"
+  },
+  "keywords": [
+    "js",
+    "node",
+    "js",
+    "backend"
+  ],
+  "author": "Shreesh",
+  "license": "ISC"
+}
